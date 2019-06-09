@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Media Player</string>
+    <string name="title_activity_song_list">SongListActivity</string>
+    <string name="start">Start</string>
+    <string name="background_play">Backdround Play</string>
+    <string name="button_play">Button Play</string>
+    <string name="select">Select</string>
+    <string name="select_2">Select№2</string>
+    <string name="main">Main</string>
+    <string name="list_songs">List Songs</string>
+    <string name="red_note">Red Note</string>
+    <string name="green_note">Green Note</string>
+</resources>
